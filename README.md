@@ -7,4 +7,7 @@
 
 ## Live Page
 
-[Show Page](https://aygulysn.github.io/Blurry-Loading/)
+[Show Page](https://yasin-aygl.github.io/Blurry-Loading/)
+
+
+
